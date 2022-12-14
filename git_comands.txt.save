@@ -1,0 +1,7 @@
+sudo apt install git -установка системы git
+git --version -проверка вкрсии
+git config --global user.names"saikal"
+git config --global user.emai"saikal1099@gmail.com"
+git config --list
+ssh-keygen -генерация ssh ключа
+cat ~/.ssh/id_rsa.pub-получение  ключа ssh
